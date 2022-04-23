@@ -10,7 +10,7 @@
 </ul>
 
 ## 🖼 Screenshot do projeto
-<img src="../imagens/cordel.png" alt="Imagem do Projeto" width="900"></img>
+<img src="imagens/cordel.png" alt="Imagem do Projeto" width="900"></img>
 ## :rocket:	Tecnologias utilizadas
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -32,7 +32,9 @@
 ```bash
 # Clone o repositório
 $ git clone https://github.com/marceloisidorio/projeto-cordel.git
+
 # Acesse a pasta do projeto
+
 # Execute o arquivo "index.html" no navegador de sua preferência
 ```
 
