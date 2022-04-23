@@ -10,7 +10,7 @@
 </ul>
 
 ## 🖼 Screenshot do projeto
-<img src="imagens/cordel.png" alt="Imagem do Projeto" width="900"></img>
+<img src="imagens/cordel.PNG" alt="Imagem do Projeto" width="900"></img>
 ## :rocket:	Tecnologias utilizadas
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
